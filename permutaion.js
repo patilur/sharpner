@@ -32,3 +32,5 @@ var isPermutation = function(s, t) {
 };
 
 //Learning github
+
+//new codes
